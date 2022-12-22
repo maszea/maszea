@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maszea
-- 👀 I’m interested in Kotlin and Adnroid Development
+- 👀 I’m interested in C# and .NET
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me alzea.arafat@outlook.com
 

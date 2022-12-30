@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maszea
-- 👀 I’m interested in Dart and Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Kotlin and Android
 - 📫 How to reach me alzea.arafat@outlook.com
 
 <!---

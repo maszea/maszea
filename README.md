@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @maszea
-- 👀 I’m interested in Kotlin and Android
 - 📫 How to reach me alzea.arafat@outlook.com
 
 <!---
